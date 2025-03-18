@@ -50,8 +50,6 @@
 
 - 📫 How to reach me **apoorwasandara@gmail.com**
 
-- ⚡ Fun fact: **"Why do programmers prefer dark mode? Because light attracts bugs." 💀💻**
-
 <!-- Skills Section -->
 <h2>🛠️ Skills & Technologies</h2>
 
